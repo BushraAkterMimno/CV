@@ -1,0 +1,163 @@
+.main{
+    margin: 0 auto;
+    display: block;
+    width: 1000px;
+    background-color: white;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    height: 200px;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.name{
+    margin-top: 90px;
+}
+
+span{
+    color: aqua;
+}
+
+hr{
+    width: 60px;
+    color: aqua;
+    height: 5px;
+}
+
+.list{
+    margin-top: 90px;
+}
+
+.list ul li{
+    list-style: none;
+}
+
+i{
+    color: aqua;
+}
+
+i span{
+    color: white;
+}
+
+.line{
+    height: 20px;
+    width: 100px;
+    background-color: aqua;
+    margin-top: 50px;
+}
+
+.education{
+    float: right;
+    margin-top: 40px;
+}
+
+h3{
+    color: aqua;
+}
+
+.skills{
+    float: right;
+    margin-top: 40px;
+    margin-right: 115px;
+}
+
+.contact{
+    margin-top: 40px;
+}
+
+.progress{
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 0px;
+}
+
+.reference{
+    margin-top: 40px;
+}
+
+.line2{
+    height: 850px;
+    width: 5px;
+    background-color: aqua;
+    float: left;
+    margin-top: 45px;
+    border-radius: 10px;
+}
+
+.bar1{
+    height: 20px;
+    width: 460px;
+    background-color: aqua;
+    float: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.bar2{
+    height: 20px;
+    width: 400px;
+    background-color: aqua;
+    float: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.bar3{
+    height: 20px;
+    width: 270px;
+    background-color: aqua;
+    float: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.bar4{
+    height: 20px;
+    width: 410px;
+    background-color: aqua;
+    float: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.profile{
+    margin-top: 40px;
+    float: left;
+}
+
+.text{
+    margin-left: 50px;
+}
+
+.text p{
+    float: left;
+}
+
+.text1{
+    float: right;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.text2{
+    float: right;
+    margin-top: 10px;
+}
+
+.footer{
+    height: 30px;
+    width: 1000px;
+    background-color: aqua;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
